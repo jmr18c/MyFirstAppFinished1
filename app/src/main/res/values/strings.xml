@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="about_me">My name is Justin Raitz. I am from Bandera, Texas, which is the \"Cowboy Capital of the World\" (Google search approved). My favorite movie quote is from Forrest Gump and says, \"Life is like a box of chocolates…you never know what you\'re gonna get!\"</string>
+    <string name="pic_me">Picture of me</string>
+</resources>
